@@ -48,7 +48,7 @@
 
 ![image-20240610165944843](assets/image/image-20240610165944843.png)
 
-### 致谢
+## 致谢
 
 1. [曲阜师范大学网络空间安全学院数字大脑团队](https://c605.cn/index)
 2. 清华智谱 [ChatGLM](https://chatglm.cn/)
