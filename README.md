@@ -3,6 +3,7 @@
 利用 Markdown+AI 提高**数据预处理**问答对的提取效率
 
 > <span style="color:#FF0000;"> 声明 </span>：**官方师哥给出的方法已经很好，这里提供另外一种方法，切勿因此吹捧拉踩等**
+> 本方法仅供参考，如有更好的方法，欢迎提交 Pull Request 或者 issues
 
 ## 背景
 
@@ -54,3 +55,7 @@
 2. 清华智谱 [ChatGLM](https://chatglm.cn/)
 3. [W1ndys](https://github.com/W1ndys)
 4. [Markdown 官方教程](https://markdown.com.cn/)
+
+---
+
+**本方法仅供参考，如有更好的方法，欢迎提交 Pull Request 或者 issues**
