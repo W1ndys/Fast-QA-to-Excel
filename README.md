@@ -32,6 +32,10 @@
 
 ## 实机演示
 
+由于 ChatGPT 无法识别 PDF，这里用智谱实测，虽然比较蠢
+
+如果执意要使用 ChatGPT，可以用可以识别 PDF 的 AI 提取出纯文本问答对，再让 ChatGPT 转成 Markdown 表格
+
 ### 提示词
 
 ![image-20240610165537447](assets/image/image-20240610165537447.png)
