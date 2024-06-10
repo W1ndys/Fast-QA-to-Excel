@@ -1,6 +1,6 @@
 # Fast-QA-to-Excel
 
-利用 Markdown+AI 提高问答对的提取效率
+利用 Markdown+AI 提高**数据预处理**问答对的提取效率
 
 > <span style="color:#FF0000;"> 声明 </span>：**官方师哥给出的方法已经很好，这里提供另外一种方法，切勿因此吹捧拉踩等**
 
